@@ -16,3 +16,4 @@ The final figure shows the query of the list of employees who are eligible to be
 ![IMAGE](https://github.com/PeterAlesio/Pewlett-Hackard-Analysis/blob/main/Mentorship%20Candidates.png)
 
 ## Summary
+Currently there are 90,398 positions that are within the retirement range which is an incredible amount of employees who will be retiring soon. A hiring process is in order to fight against the "silver tsunami" of mass retirement. Additionally, since many of those retiring employees hold senior position, there are 56,858 potential current employees who can mentor to help train new hires to replace them when they eventually leave the company.
